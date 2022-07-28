@@ -31,12 +31,13 @@
 }
 .footer {
     background-color: #373738;
-    padding: 25%;
+    padding: 5%;
 }
 .ul {
     vertical-align: top;
-    padding: 25%;
+    padding: 2%;
     height: 100px;
+    width: 20%
 }
 .flexContainer {
     display: flex;
